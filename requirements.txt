@@ -1,0 +1,5 @@
+numpy
+pandas>=0.25.3
+scikit-learn
+matplotlib>=2.2.*
+jupyter
