@@ -1,0 +1,10 @@
+name: ard_hard
+dependencies:
+  - python
+  - pip
+  - pip:
+    - numpy
+    - pandas
+    - scipy
+    - scikit-learn
+    - matplotlib
